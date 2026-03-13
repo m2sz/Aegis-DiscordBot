@@ -94,7 +94,7 @@ Create a `.env` file in the root of the project using `.env.example` as a base.
 DISCORD_TOKEN=your-discord-bot-token
 DISCORD_CLIENT_ID=your-application-id
 DISCORD_GUILD_ID=optional-guild-id-for-fast-command-deployment
-MONGODB_URI=mongodb://127.0.0.1:27017/aegis-discord-bot
+MONGODB_URI=mongodb://127.0.0.1:27017/aegis-discord-bot (you can change with other ip)
 DEFAULT_TICKET_CATEGORY_ID=discord-category-id-for-open-tickets
 DEFAULT_TICKET_ARCHIVE_CATEGORY_ID=discord-category-id-for-archived-tickets
 DEFAULT_LOG_CHANNEL_ID=discord-text-channel-id-for-mod-logs
